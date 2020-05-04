@@ -1,0 +1,2 @@
+# DynamoDBPrac
+Dynamo Db practice
